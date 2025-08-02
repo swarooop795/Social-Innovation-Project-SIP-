@@ -1,4 +1,4 @@
-# Social-Innovation-Project-Completion-Certificate
+# Social-Innovation-Project-Completion
 
 1.Introduction
 
