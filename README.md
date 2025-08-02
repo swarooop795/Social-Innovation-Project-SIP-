@@ -1,6 +1,6 @@
 # Social-Innovation-Project-Completion
 
-Project Title:"PLANTPELLETE"
+Project Title: "PLANTPELLETE"
 
 1.Introduction
 
@@ -150,7 +150,7 @@ seedling growth, distribution success, and the overall impact of reforestation i
 climate, and the types of plant species being used. Thorough site assessments and appropriate 
 seed selection are essential for optimal outcomes.
 
-Image Gallery:
+6.Image Gallery:
 
 <img width="1131" height="1081" alt="image" src="https://github.com/user-attachments/assets/09244142-f522-46a0-9b3b-72887d998cc1" />
 
