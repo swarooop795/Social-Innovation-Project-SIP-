@@ -1,8 +1,8 @@
 # Social-Innovation-Project-Completion
 
-Project Title: "PLANTPELLETE"
+# Project Title: "PLANTPELLETE"
 
-1.Introduction
+# 1.Introduction
 
 The Automatic Seedball Machine! In a world where environmental concerns have never been more 
 pressing, innovation has stepped in to provide a remarkable solution. The Automatic Seedball 
@@ -38,7 +38,7 @@ encourages biodiversity. Diverse plant species contribute to healthier ecosystem
 supporting a wider range of wildlife and strengthening the resilience of the environment 
 against threats such as disease and climate change.
 
-2.Field Visit
+# 2.Field Visit
 
 <img width="367" height="250" alt="image" src="https://github.com/user-attachments/assets/c773598f-c777-4b4b-bddf-13e6f0c7b25c" />
 
@@ -67,34 +67,40 @@ dedicated to fostering a positive impact on the environment, community, and educ
 It's clear that the field visit left you with a sense of enlightenment and inspiration, which speaks 
 volumes about the quality of the experience you had.of the vital role horticulture plays in our lives.
 
-3.Problem statement
+# 3.Problem statement
    
 Problem statement: 
+
 Farmers finding it difficult to make seedball manually.
 
 What is the problem?
 Making seedballs is time consuming and labour extensive.
 
 Why is it a problem?
+
 Farmers are not able to afford the available existing solution because it is expensive.
 
 Who is facing the problem?
+
 Agricultural sectors like Farmers, Horticulture and Forest Department.
 
 When and where does the problem occur?
+
 The world is facing environmental degradation at an unprecedented rate, with issues such as 
 deforestation, soil erosion, and loss of biodiversity threatening our planet's sustainability. Seedball 
 creation offers a potential solution to these problems by promoting reforestation and restoring 
 degraded land.
 
 What are the existing solutions?
+
 Reforestation through drone technology, artificial and data-driven intelligence.
 
 What are users/ stakeholders complaining about the existing solutions?
+
 The existing machine includes various problems like it is too expensive for small scale farmers,the 
 machine includes outdated technology.
 
-4.Solution 
+# 4.Solution 
 
 ● Introducing the Automatic Seed Ball Maker - the ultimate gardening tool for eco-conscious 
 enthusiasts! With this innovative device, you can effortlessly create seed balls for your garden 
@@ -111,7 +117,7 @@ durable materials that are built to last.
 
 <img width="1078" height="762" alt="image" src="https://github.com/user-attachments/assets/2305b901-0e94-494a-82fa-0f23b1a7c881" />
 
-5.Conclusion 
+# 5.Conclusion 
 
 The machine's ability to efficiently produce and disperse seedballs offers several notable benefits:
 
@@ -150,7 +156,7 @@ seedling growth, distribution success, and the overall impact of reforestation i
 climate, and the types of plant species being used. Thorough site assessments and appropriate 
 seed selection are essential for optimal outcomes.
 
-6.Image Gallery:
+# 6.Image Gallery:
 
 <img width="1131" height="1081" alt="image" src="https://github.com/user-attachments/assets/09244142-f522-46a0-9b3b-72887d998cc1" />
 
