@@ -69,33 +69,34 @@ volumes about the quality of the experience you had.of the vital role horticultu
 
 # 3.Problem statement
    
-Problem statement: 
+● Problem statement: 
 
 Farmers finding it difficult to make seedball manually.
 
-What is the problem?
+● What is the problem?
+
 Making seedballs is time consuming and labour extensive.
 
-Why is it a problem?
+● Why is it a problem?
 
 Farmers are not able to afford the available existing solution because it is expensive.
 
-Who is facing the problem?
+● Who is facing the problem?
 
 Agricultural sectors like Farmers, Horticulture and Forest Department.
 
-When and where does the problem occur?
+● When and where does the problem occur?
 
 The world is facing environmental degradation at an unprecedented rate, with issues such as 
 deforestation, soil erosion, and loss of biodiversity threatening our planet's sustainability. Seedball 
 creation offers a potential solution to these problems by promoting reforestation and restoring 
 degraded land.
 
-What are the existing solutions?
+● What are the existing solutions?
 
 Reforestation through drone technology, artificial and data-driven intelligence.
 
-What are users/ stakeholders complaining about the existing solutions?
+● What are users/ stakeholders complaining about the existing solutions?
 
 The existing machine includes various problems like it is too expensive for small scale farmers,the 
 machine includes outdated technology.
